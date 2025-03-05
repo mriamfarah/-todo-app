@@ -1,0 +1,16 @@
+.app {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  input {
+    margin: 5px;
+    padding: 8px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 8px;
+    cursor: pointer;
+  }
+  
